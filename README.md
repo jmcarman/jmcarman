@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I am a Professor who teaches networking at both Seneca College and Centennial College.  I have taught courses in the following areas: Linux, Web Design, Cisco, Windows, MS Office.
+I am a Professor who teaches networking at both Centennial College and Seneca College.  I have taught courses in the following areas: Linux, Web Design, Cisco, Windows, MS Office.
 
 🔭 I'd tell you, but then...
 
